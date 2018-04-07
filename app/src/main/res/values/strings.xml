@@ -3,4 +3,9 @@
     <string name="about">About</string>
     <string name="icons8link">Special thanks to https://icons8.com/license where you can obtain free icons!</string>
     <string name="ok">Ok</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lblContact">Contact Info:</string>
+    <string name="btnSendNotification">Send Notification</string>
 </resources>
