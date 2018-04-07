@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ParcelControl</string>
+    <string name="about">About</string>
+    <string name="icons8link">Special thanks to https://icons8.com/license where you can obtain free icons!</string>
+    <string name="ok">Ok</string>
+</resources>
